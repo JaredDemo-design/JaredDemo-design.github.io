@@ -367,7 +367,7 @@ footer
     }
 
     #c1{
-        height: 70vh;
+        height: 50vh;
     }
 
     nav{
@@ -417,10 +417,10 @@ footer
 
 @media (max-width: 500px)
 {
-    #c1
+    /* #c1
     {
         background-position: 15% center;
-    }
+    } */
 }
 
 
