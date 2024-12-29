@@ -87,7 +87,7 @@ nav {
     }
 
     h1{
-
+        font-size: clamp(25px, 5vw, 60px);
         margin-top: clamp(5%, 5vh, 10%);
         margin-left: clamp(5%,3vw,15%);
       
