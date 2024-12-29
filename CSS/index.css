@@ -359,6 +359,8 @@ footer
     body{
         background-color: rgb(27, 27, 27);
     }
+
+    
     #MobileMenu{
         display: flex;
         margin-left: 5%;
@@ -366,6 +368,7 @@ footer
 
     #c1{
         height: 70vh;
+        background-position: center left;
     }
 
     nav{
