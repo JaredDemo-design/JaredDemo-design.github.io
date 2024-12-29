@@ -497,8 +497,12 @@ transition: 300ms ease;
     border-radius: 2rem;
   }
   
-  .card:hover {
+  .card:hover, .card:active{
     cursor: pointer;
+    transform: rotateY(180deg) rotateZ(180deg);
+  }
+
+  .ShowBack{
     transform: rotateY(180deg) rotateZ(180deg);
   }
   

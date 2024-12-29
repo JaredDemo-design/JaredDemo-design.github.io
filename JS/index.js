@@ -76,3 +76,8 @@ $("#MobileMenu, #MobileClose").click(function () {
   //     }, 1000);
   //     }
   // })
+
+
+  $(".card").click(function(){
+    $(this).toggleClass("ShowBack")
+  })
