@@ -371,6 +371,7 @@ footer
 
     nav{
         justify-content: normal !important;
+        height: 75px;
     }
 
     #footer{
