@@ -416,6 +416,14 @@ footer
 }
 
 
+@media (max-width: 500px)
+{
+    #c1
+    {
+        background-position: 15% center;
+    }
+}
+
 
 #MobileDrop
 {
